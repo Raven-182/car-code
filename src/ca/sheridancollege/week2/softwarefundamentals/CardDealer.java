@@ -8,7 +8,8 @@ package ca.sheridancollege.week2.softwarefundamentals;
 /**
  * The class where we create Cards
  * @author dancye, 2019
- * Modifier: Raven(Ravneet)
+ * Modifier: Ravneet Kaur(Raven)
+ * Modifier Student ID: 991602063
  */
 public class CardDealer 
 {
